@@ -1,0 +1,13 @@
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\bin\Debug\VideoStaganographyTeash.exe.config
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\bin\Debug\VideoStaganographyTeash.exe
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\bin\Debug\VideoStaganographyTeash.pdb
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.csproj.AssemblyReference.cache
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.Form1.resources
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.Properties.Resources.resources
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.csproj.GenerateResource.cache
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.csproj.CoreCompileInputs.cache
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.exe
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.pdb
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\bin\Debug\BetterFolderBrowser.dll
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\bin\Debug\BetterFolderBrowser.xml
+D:\.NET\VideoSteganographyTeash\VideoStaganographyTeash\VideoStaganographyTeash\obj\Debug\VideoStaganographyTeash.csproj.CopyComplete
